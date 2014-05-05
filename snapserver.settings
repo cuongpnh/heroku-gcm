@@ -1,0 +1,6 @@
+settings = {
+    apikey: "AIzaSyBzvf5VUxav70MCcADKw56c5t-1LTeRvTo",
+    url: "YOUR_SERVER_ADDRESS",
+    senderid: "780862096886",
+    heroku: true
+}
